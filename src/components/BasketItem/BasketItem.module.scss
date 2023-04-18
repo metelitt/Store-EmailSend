@@ -1,0 +1,61 @@
+.BasketItem{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.ImgItem{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-height: 194px;
+    width: 281px;
+}
+h1{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+    color: #111111;
+cursor: pointer;
+}
+.size{
+    align-items: center;
+    display: flex;
+    gap: 10px;
+    font-weight: 400;
+font-size: 12px;
+line-height: 130%;
+color: #3F4E65;
+}
+.Info{
+    max-width: 480px;
+}
+.Desk{
+    font-weight: 300;
+font-size: 15px;
+line-height: 150%;
+color: #3F4E65;
+}
+.Sum{
+    display: flex;
+    button{
+        background: linear-gradient(90deg, rgba(255, 198, 80, 0.3) 0%, rgba(254, 202, 110, 0.3) 97.25%);
+        border-radius: 1000px;
+        padding: 4px 14px;
+    }
+    p{
+        padding: 0 17px 0 17px;
+    }
+}
+.Price{
+    font-weight: 700;
+font-size: 30px;
+line-height: 130%;
+color: #111111;
+}
+.Btn{
+    background: #FFC85E;
+    border-radius: 79px;
+    padding: 10px 15px;
+    border: none;
+}

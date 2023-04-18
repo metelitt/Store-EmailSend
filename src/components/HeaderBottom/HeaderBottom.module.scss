@@ -1,0 +1,122 @@
+.HeaderBottom{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 10px;
+}
+.img{
+    max-height: 65px;
+}
+.catalog{
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 10px 19px;
+background: #FFC85E;
+border-radius: 79px;
+width: 192px;
+height: 59px;
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+color: #FFFFFF;
+border: none;
+}
+.input{
+    width: 220px;
+    height: 59px;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding-left: 20px;
+gap: 10px;
+background: #EDEDED;
+border-radius: 36px;
+font-weight: 400;
+font-size: 12px;
+line-height: 150%;
+color: #5C6370;
+border: none;
+position: relative;
+}
+.inputSearch{
+display: flex;
+position: relative;
+}
+.searchBtn{
+    display: flex;
+    position: absolute;
+    background: #FFC85E;
+border-radius: 1000px;
+border: none;
+right: 10px;
+top: 10px;
+padding: 13px;
+}
+.tel{
+    color: #111111;
+    font-weight: 600;
+font-size: 14px;
+line-height: 150%;
+text-decoration: none;
+}
+.time{
+    color: #3F4E65;
+    font-weight: 300;
+font-size: 12px;
+line-height: 150%;
+margin: 0;
+}
+.call{
+    color: #3F4E65;
+    text-decoration-line: underline;
+    font-size: 10px;
+    line-height: 150%;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+    text-align: right;
+    gap: 5px;
+}
+.img2{
+    max-height: 113px;
+    max-width: 74px;
+}
+.pricebtn{
+    width: 200px;
+    height: 59px;
+    background: #FFC85E;
+    border-radius: 79px;
+    width: 200px;
+    border: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    padding: 10px 19px;
+}
+.basket{
+    color: #3F4E65;
+    font-size: 12px;
+    font-weight: 300;
+    margin: 0;
+}
+.price{
+    color: #111111;
+    font-weight: 600;
+    font-size: 14px;
+    margin: 0;
+}
+.cost{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}

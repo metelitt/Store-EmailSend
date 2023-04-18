@@ -1,0 +1,185 @@
+{
+  "users": [
+    {
+      "email": "wccccwc@mail.ru",
+      "password": "Rinat2003",
+      "id": 1
+    },
+    {
+      "email": "fssfc@mail.ru",
+      "password": "qwdqwdqwdqwd",
+      "id": 2
+    },
+    {
+      "email": "fssfc@mail.ru",
+      "password": "qwdqwdqwdqwd",
+      "id": 3
+    },
+    {
+      "email": "qwdqwd@mail.ru",
+      "password": "$2a$10$xP1KwQewVwG6vrgecwypzOcodZpvvfhWgNp.7zsa6/NZ7oL7qVnK6",
+      "id": 4
+    },
+    {
+      "email": "mavluytov-1999@inbox.ru",
+      "password": "$2a$10$toXmRn2PpuHCnMokWDT1dOInurrDjSv9vL5igBA9NyJ9yoIZ.bHLa",
+      "id": 5
+    },
+    {
+      "email": "awdawd@ccec.ru",
+      "password": "$2a$10$1V9UIzDvDnYcaq.E0PmPqutWTFlp4X2sf00FTLk8RFsCwmSsaBC7u",
+      "id": 6
+    },
+    {
+      "email": "csdcds@mail.ru",
+      "password": "$2a$10$pddl5KL.neyR7oNGqPg7HuVkSN3cHIoHzjP/unXa27K5WIGx.1fR2",
+      "id": 7
+    },
+    {
+      "email": "mav@rinat.mail.ru",
+      "password": "$2a$10$zYfv5qgYQ1lO/4Ym/h29iuwQPmLhqArNuF0.uSjzCCAcMFi3QczCy",
+      "id": 8
+    },
+    {
+      "email": "mavlyutov@mail.ru",
+      "password": "$2a$10$U3GcLQAV.PiSZgfI0sua5OUpknNeELw306NUejRZvmsvN6uPfrEZK",
+      "id": 9
+    },
+    {
+      "email": "mav@cls,lc,s.mail.ru",
+      "password": "$2a$10$JmtA.WLDvg6U4GGZhAOUb.A2vcCRc4WKbCbwvGJ7e6bq0UHw6KU0.",
+      "id": 10
+    },
+    {
+      "email": "ssfs@scscsec.ru",
+      "password": "$2a$10$FRFX1Ba8DOSSbd/j7JkG4O2upOiUEBDg0O7IkQUynHF9DT2zysvNC",
+      "id": 11
+    },
+    {
+      "email": "fr@mail.ru",
+      "password": "$2a$10$kGpBNUMgKO/5B99tKT/yfOkPxAbzobDkwDKLI0IeLp.j2SbCUyKui",
+      "id": 12
+    },
+    {
+      "email": "asda@mail.ru",
+      "password": "$2a$10$NgAxOvT28lfk75jen.empO000sgBsfVFZ9YHWNlC/J7D/lDL1dI.2",
+      "id": 13
+    },
+    {
+      "email": "rinat@mail.ru",
+      "password": "$2a$10$cOb4P4Ad59iMWjT70FVYNuJF5jI6Ow98AZGPsy.DmZnTIP1uscvQm",
+      "id": 14
+    },
+    {
+      "email": "olga@mail.ru",
+      "password": "$2a$10$PFAUxf.iXxTy..D7xEsXvur/f77XDKKdr66dMYQL4Er2wFSA3YfZO",
+      "id": 15
+    }
+  ],
+  "sales": [
+    {
+      "id":1,
+      "popular":"Популярное",
+      "image":"./assets/sales/AOS.png",
+      "name":"AOS средство для мытья посуды Crystal",
+      "size":"450 мл",
+      "type":"body",
+      "code":"4604049097548",
+      "prod":"Нэфис",
+      "brand":"AOS",
+      "Oldprice":48,
+      "NewPrice":30
+    },
+    {
+      "id":2,
+      "popular":"Популярное",
+      "image":"./assets/sales/AOS.png",
+      "name":"AOS средство для мытья посуды Crystal",
+      "size":"450 мл",
+      "type":"body",
+      "code":"4604049097548",
+      "prod":"Нэфис",
+      "brand":"AOS",
+      "Oldprice":44,
+      "NewPrice":34
+    },
+    {
+      "id":3,
+      "popular":"Популярное",
+      "image":"./assets/sales/AOS.png",
+      "name":"AOS средство для мытья посуды Crystal",
+      "size":"450 мл",
+      "type":"body",
+      "code":"4604049097548",
+      "prod":"Нэфис",
+      "brand":"AOS",
+      "Oldprice":438,
+      "NewPrice":332
+    },
+    {
+      "id":4,
+      "popular":"Популярное",
+      "image":"./assets/sales/AOS.png",
+      "name":"AOS средство для мытья посуды Crystal",
+      "size":"450 мл",
+      "type":"body",
+      "code":"4604049097548",
+      "prod":"Нэфис",
+      "brand":"AOS",
+      "Oldprice":448,
+      "NewPrice":340
+    },
+    {
+      "id":5,
+      "popular":"Популярное",
+      "image":"./assets/sales/Ariel.png",
+      "name":"AOS средство для мытья посуды Crystal",
+      "size":"450 мл",
+      "type":"body",
+      "code":"4604049097548",
+      "prod":"Нэфис",
+      "brand":"AOS",
+      "Oldprice":428,
+      "NewPrice":320
+    },
+    {
+      "id":6,
+      "popular":"Популярное",
+      "image":"./assets/sales/Ariel.png",
+      "name":"AOS средство для мытья посуды Crystal",
+      "size":"450 мл",
+      "type":"body",
+      "code":"4604049097548",
+      "prod":"Нэфис",
+      "brand":"AOS",
+      "Oldprice":68,
+      "NewPrice":50
+    },
+    {
+      "id":7,
+      "popular":"Популярное",
+      "image":"./assets/sales/Ariel.png",
+      "name":"AOS средство для мытья посуды Crystal",
+      "size":"450 мл",
+      "type":"body",
+      "code":"4604049097548",
+      "prod":"Нэфис",
+      "brand":"AOS",
+      "Oldprice":18,
+      "NewPrice":10
+    },
+    {
+      "id":8,
+      "popular":"Популярное",
+      "image":"./assets/sales/Ariel.png",
+      "name":"AOS средство для мытья посуды Crystal",
+      "size":"450 мл",
+      "type":"body",
+      "code":"4604049097548",
+      "prod":"Нэфис",
+      "brand":"AOS",
+      "Oldprice":99,
+      "NewPrice":80
+    }
+  ]
+}

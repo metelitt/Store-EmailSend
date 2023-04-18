@@ -1,0 +1,47 @@
+.Manufacturer{
+    h1{
+        font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+color: #111111;
+    }
+}
+.input{
+    width: 220px;
+    height: 59px;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding-left: 20px;
+gap: 10px;
+background: #EDEDED;
+border-radius: 36px;
+font-weight: 400;
+font-size: 12px;
+line-height: 150%;
+color: #5C6370;
+border: none;
+position: relative;
+}
+.inputSearch{
+display: flex;
+position: relative;
+}
+.searchBtn{
+    display: flex;
+    position: absolute;
+    background: #FFC85E;
+border-radius: 1000px;
+border: none;
+left:165px;
+top: 7px;
+padding: 13px;
+}
+.ManArr{
+    font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+color: #3F4E65;
+margin: 0;
+}

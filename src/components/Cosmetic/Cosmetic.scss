@@ -1,0 +1,20 @@
+.Cosmetic{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 30px;
+    h1{
+        text-transform:uppercase;
+        font-weight: 500;
+    font-size: 40px;
+    line-height: 120%;
+    text-transform: uppercase;
+    }
+    p{
+        font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+color: #111111;
+    }
+}

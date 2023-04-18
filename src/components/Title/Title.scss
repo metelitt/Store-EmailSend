@@ -1,0 +1,21 @@
+.Title{
+    display: flex;
+    gap: 20px;
+    padding-top: 100px;
+    &__first{
+        text-transform: uppercase;
+        color: #FFC85E;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 40px;
+        line-height: 120%;
+    }
+    &__second{
+        text-transform: uppercase;
+        color: #111111;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 40px;
+        line-height: 120%;
+    }
+}

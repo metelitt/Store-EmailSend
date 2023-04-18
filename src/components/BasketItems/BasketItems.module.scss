@@ -1,0 +1,29 @@
+.BasketText{
+    text-transform: uppercase;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 40px;
+line-height: 120%;
+color: #111111;
+}
+.Order{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+    button{
+        background: #FFC85E;
+        border-radius: 79px;
+        font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+    border: none;
+    padding: 21px 38px;
+    }
+    p{
+        font-weight: 700;
+    font-size: 30px;
+    line-height: 130%;
+    color: #111111;
+    }
+}

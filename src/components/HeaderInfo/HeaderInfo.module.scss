@@ -1,0 +1,28 @@
+.HeaderInfo{
+    display: flex;
+    gap: 18px;
+    text-align: left;
+    p{
+        margin: 0;
+    }
+}
+.headerInfoTop{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 130.02%;
+    color: #111111;
+}
+.headerInfoDown{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 130.02%;
+    color: #3F4E65;
+    margin: 0;
+}
+.font{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

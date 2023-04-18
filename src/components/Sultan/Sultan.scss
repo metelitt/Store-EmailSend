@@ -1,0 +1,46 @@
+.Sultan{
+    h1{
+        font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+color: #FFFFFF;
+    }
+    p{
+        font-weight: 400;
+font-size: 12px;
+line-height: 150%;
+color: #FFFFFF;
+padding-top: 45px;
+    }
+    input{
+            width: 250px;
+            height: 59px;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        padding-left: 20px;
+        gap: 10px;
+        background: #EDEDED;
+        border-radius: 36px;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 150%;
+        color: #5C6370;
+        border: none;
+        position: relative;
+        }
+}
+.inputSearch{
+    display: flex;
+    position: relative;
+    }
+    .searchBtn{
+        display: flex;
+        position: absolute;
+        background: #FFC85E;
+    border-radius: 1000px;
+    border: none;
+    right: 80px;
+    top: 7px;
+    padding: 13px;
+    }
